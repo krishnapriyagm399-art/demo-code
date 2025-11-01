@@ -1,4 +1,4 @@
-a = 5
-b = 6
+a = 8
+b = 7
 sum = a + b
 print ("the sum = " sum)
